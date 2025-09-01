@@ -1,4 +1,4 @@
-<h1 align="center">Hii Guys👋</h1>
+<h1 align="center">Hiii Guys👋</h1>
 <h3 align="center">I'm Atluri Dhanush, a passionate Software Developer</h3>
 <img <img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
