@@ -1,11 +1,6 @@
-<h1 align="center">Hiii Guys👋 </h1>
-<h3 align="center">I'm Atluri Dhanush, a passionate Software Developer</h3>
+<h1 align="center">Hiii Guys👋</h1>
+<h3 align="center">This is Atluri Dhanush, a passionate Software Developer</h3>
 <img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atluridhanu&label=Profile%20views&color=000000&style=flat" alt="atluridhanu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/atluridhanu129" target="blank"><img src="https://img.shields.io/twitter/follow/atluridhanu129?logo=twitter&style=for-the-badge" alt="atluridhanu129" /></a> </p>
 
 - 🔭 I’m currently working on **Airline Reservation System Clone (Spring Boot + JSP)**
 
