@@ -1,6 +1,7 @@
-<h1 align="center">Hiii Guys👋</h1>
+<h1 align="center">Hiii Guys👋 </h1>
 <h3 align="center">I'm Atluri Dhanush, a passionate Software Developer</h3>
-<img <img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atluridhanu&label=Profile%20views&color=000000&style=flat" alt="atluridhanu" /> </p>
 
@@ -31,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atluridhanu&show_icons=true&title_color=000000&bg_color=fffafa&locale=en" alt="atluridhanu" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atluridhanu&theme=default" alt="atluridhanu" /></p>
