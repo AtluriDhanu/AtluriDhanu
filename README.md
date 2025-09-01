@@ -1,5 +1,5 @@
-<h1 align="center">Hi Guys👋, I'm Atluri Dhanush</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h1 align="center">Hi Guys👋</h1>
+<h3 align="center">I'm Atluri Dhanush, a passionate Software Developer</h3>
 <img <img align="right" alt="Coding" width="350" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atluridhanu&label=Profile%20views&color=000000&style=flat" alt="atluridhanu" /> </p>
