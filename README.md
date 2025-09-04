@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://twitter.com/atluridhanu129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atluridhanu129" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atluri-dhanush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atluri-dhanush" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhanu129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhanu129" height="30" width="40" /></a>
 <a href="https://instagram.com/atluridhanu_129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atluridhanu_129" height="30" width="40" /></a>
 </p>
 
