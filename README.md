@@ -1,12 +1,12 @@
 <h1 align="center">Hiii Guys👋</h1>
-<h3 align="center">This is Atluri Dhanush, a passionate Software Developer</h3>
+<h3 align="center">This is Atluri Dhanush, a passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atluridhanu&label=Profile%20views&color=000000&style=flat" alt="atluridhanu" /> </p>
 
 
-- 🔭 I’m currently working on **Spring Boot and JSP Servlets**
+- 🔭 I’m currently working on **Python and Tableau**
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtluriDhanu](https://github.com/AtluriDhanu)
 
