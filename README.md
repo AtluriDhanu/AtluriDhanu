@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atluridhanu129@gmail.com**
 
-- 📄 [Atluri Dhanush Data Analyst Resume](https://drive.google.com/file/d/1-zsPkKqB8lHxCNYMFA9c8MXQTofkzIxP/view?usp=sharing)
+- 📄 [Atluri Dhanush Data Analyst Resume](https://drive.google.com/file/d/1SCZBIDxrlRDgARRZN7gqweSG8EJHB6_V/view?usp=sharing)
 
 - ⚡ Fun fact **I believe Ctrl+Z can fix life.**
 
